@@ -14,16 +14,16 @@ student: "jesus Trevizo"
 course: "US Immigration History, Fall 2026"
 
 # Small label on the home page card, e.g. "Village to City"
-kicker: "Place to Place"
+kicker: "family immgration"
 
 # One sentence that appears on the home page card and under the title
-summary: "One sentence that tells readers what your family's migration story is about."
+summary: "My family immgration and how they started"
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
 lead-image: images/placeholder.svg
-lead-image-alt: "Short description of the image for screen readers"
-lead-image-caption: "What the image shows, who is in it, and the source. Example: Maria and Jose Lopez outside their first apartment, Chicago, 1968. Courtesy of the Lopez family."
+lead-image-alt: "the place when it started"
+lead-image-caption: "this house is the first stop and only place they only had when immgrated."
 
 # To hide an unfinished essay from the home page, remove the # in front of the next line
 # draft: true
@@ -47,12 +47,12 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
 
 This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
 
-## Subheader 1: The Journey Historical context and impacts (4-8 words)
+## Subheader 1: my own famliy history (4-8 words)
 
 This section draws upon secondary sources and class materials to explain how the fmaily migration journey relates to the wider history of migration. What broader economic, political, or social developments globally and locally motivated the decision to migrate?  What specific economic, political, and/or social factors encouraged your family to choose a particular destination? Be sure to draw on class readings and other secondary sources here and cite them in Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
 
-## Subheader 2: Personal context and impact on family (4-8 words)
+## Subheader 2: my own histroy and how they impact it (4-8 words)
 
 {% comment %}
   AUDIO: replace the file name below with your MP3, uploaded to the "audio" folder.
@@ -74,7 +74,7 @@ Use a sentence or two to introduce the clip and explain why you chose it.
 This sample paragraph describes the journey as a whole. Draw upon your oral history to discuss the personal goals for the family members moving to a different geographic area. Were there personal push (motivations to leave), pull (motivations to move to the destination), or chain migration (family/community connections) factors for migration? What specific opportunities, challenges, disruptions, changes resulted for specific famliy members? How did it meet expectations or require adjustments? Be as specific as you can.  Cite relevant class sources explains how this relates to broader patterns of migration history using  Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
 
-## Subheader 3:  Meaningful object, song, food 
+## Subheader 3:  the music from vencite ferndanez 
 
  {% include essay/figure.html
   image="/essays/template/images/placeholder.svg"
@@ -84,7 +84,7 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
 
  This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
 
-## Subheader 4: 4-8 words Identity and Place in Society
+## Subheader 4: 4-8 what it means being mexican
 
 {% include essay/figure.html
   image="/essays/template/images/placeholder.svg"

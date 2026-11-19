@@ -7,17 +7,17 @@
 layout: essay
 
 # Title of your project
-title: "My Grandfather's Search for Gold Mountain"
+title: "my ancsters how we started"
 
 # Your name and course (shown under the title)
-student: "Your Name"
+student: "jesus trevizo"
 course: "US Immigration History, Fall 2026"
 
 # Small label on the home page card, e.g. "Village to City"
 kicker: "Village to City"
 
 # One sentence that appears on the home page card and under the title
-summary: "From a small southern Chinese village to metropolitan Chicago: my grandfather's search for Gold Mountain."
+summary: "from a small part of italy was called treviso."
 
 # Main image: a photograph or object that introduces your family.
 # Upload your image into the "images" folder next to this file, then type its file name below.
@@ -35,22 +35,23 @@ thumbnail-position: "center 15%"
 # draft: true
 ---
 
-Chinese living in the southern Guangdong Province knew the United States as "Gold Mountain." Chinese immigrants recalled being told that they could harvest gold off the streets. While no such gold was to be found, thousands of Chinese beginning in the 19th century sought passage to the US in search of wealth. In Fall 1929, my maternal grandfather Wing Ak Fong and his four brothers left Sook Wall village for the United States to make new lives for their families. Initially prevented from becoming a U.S. citizen due to Chinese Exclusion laws, my grandfather began a laundry on the West Side of Chicago. He would support additional family and village members' chain migration to the States, raise his eight surviving children in the back rooms of the laundry, and continue to run a laundry until the city forced him out of business.
+How my great-great-grandparents started is that they wanted a small village called Treviso. They were there for years until World War I started, and Italy took over the small village named Treviso, which in Italian means radicchio. So my ancestors lived in the small village, including the fact that all mygreat-great-great-uncless used to live there. Which means I could have more unknown families in that town alone,e which is around 2thousanded people; related to me, it is ruled under the provincial center under the rule of the Republic of Venice. My people were extremely loyal to the Republic of Venice; they have been loyal since 1300-1800 they have all been too loyal, in my personal opinion.
+.
 
-## A Radical Attempt to Conserve
+## A Radical my great-great-grandfather
 
-My grandfather's decision to migrate to the United States with his brothers followed a tradition of chain migration from Taishan County in Guangdong Province that began in the mid-19th century. Villagers throughout Guangdong Province in Southern China faced higher costs of living due to international pressures on the Qing Dynasty. Great Britain's gunboat diplomacy overpowered China during the Opium Wars, and European powers demanded access and exorbitant financial penalties. Chinese peasants had to contribute more of their crops to landlords in order to satisfy heavier taxes; a series of natural disasters exacerbated this burden. This motivated what historian Jon Gjerde describes as "a radical attempt to conserve" (Gjerde 1998, 96) a traditional way of life: making the radical decision to leave one's homeland in hopes of saving that traditional way of life. Chinese with resources paid their way to North America; Chinese lacking resources indentured their labor in exchange for passage to work on plantations in Latin America or the Caribbean. My grandfather's family however was not a peasant family; they did not farm. Nonetheless immigration itself created new economic trends in Taishan by the early 20th century that encouraged outmigration.
+How were they all kicked out of the small town of Treviso, or did they just leave? In ww1 i can tell you how my family's great-great-great-grandfather left his town; he did it mostly for money. He did it to get better opportunities so his future children would have a better life than he ever could, and because he was a family man; nothing meant more to him than seeing his kids playing joyfully on peaceful land he owned. I don’t know how much he owned, but from what my sources said, he owned a very small amount of it; he also was a farmer, making it from what little he really had to get from his farms. And where he migrated to create his own life is around modern-day Mexico; he is around there, with no specific location given.
 
-By the early 1900s, the funds sent home by Chinese emigrants in turn inspired more outmigration. These remittances also created greater pressures for younger men to migrate to earn wages in order to keep up with the increased cost of land and goods. Geopolitical developments by the 1920s also contributed to a desire to migrate. Japan had undergone concerted modernization modeled on Western imperialism, and sought to expand its influence across Asia, including the colonization of Korea in 1911.
+But at the end of World War I, my great-great-grandfather was born, and a couple of years later, world war 2 when is started, including the Mexican Revolution, in which my great-great-grandfather was a mayor, and a very wealthy man, from what I heard from my grandpa, an extremely rich person enough to feed one-third of Mexico alone. His boss was a very evil man; he is the reason he started the Mexican Revolution in the first place, which, fun fact, La Cucaracha was referring to him. Which I find pretty funny, so my grandfather's line of work is not the best at all, but he had a family to take care of, which is my great-grandfather. When he started working, he was a police officer for Mexico. 
 
-## Subheader 2: Family Matters (4-8 words)
+## Subheader 2: my parents 
 
-My grandfather's departure for the United States resulted in a separation from his wife, See Chew, for 5 years. This was not uncommon for Chinese migrants. The two were married before he migrated with his borthers.  All of the brothers apparently left their wives behind. As historian Judy Yung (Yung 1995) has noted, wives often were left behind as "grass widows" to care for their in-laws.  But my grandfather, unlike the earlier single male migrants, did not intend to return to the China. He and his wife had agreed that once he was settled  in the United States, he would send for her. As with Maxine Hong Kingston's protagonists in *China Men* (1980), my grandfather took his time to arrange for my grandmother to join him in the United States (on the other hand, my grandfather did help his cousin Louie to migrate from the village to the United States). See Chew eventually figured out how to migrate to the United States on her own. This was no easy task. 
+And now, almost in the modern day, in 1993, my parents, to them, it was really the hardest years of there lives in America for a lot of reasons, like the government was trying to crack down on immigration, but thankfully they never found them for years to come. But how did my parents really come over the border at the time? Security was on better terms, lacking in so many things, like how people worked, but they hopped into a truck and just had a heavy blanket; they were covered head to toe, and somehow they never found them behind the truck bed, which was a miracle to pull off. But after he got off the truck, he went into New Mexico for a lot of good reasons. But they really wanted to start a family; most importantly, they needed money lots of money to raise children in Mexico. They didn’t have a lot of money in Mexico. 
 
 Because of the restrictions on Chinese entering the United States as a result of the Chinese Exclusion Laws and the particular scrutiny of Chinese immigrant women because of the Page Law, Chinese women needed to be prepared for their entry interviews with U.S. immigration officials. My grandfather had immigrated to the United States using an assumed, "paper" identity-- using someone else's papers and someone else's name. Thus my grandmother could not migrate as my grandfather's legal wife. According to my brother's research, she obtained her own "paper" papers and migrated via Canada to the United States. She lived in Colorado until my grandfather saved up enough money for her to travel and join him in Chicago, Illinois.  There she would raise eight surviving children. Because Chinese laundries were never located in Chinatown but near their clientele, she rarely interacted with other Chinese Americans.  
 
 
-Paragraph 3 (150-200 words). Draw from your oral history to explain the personal reasons for your family's movement. What were the personal push factors (motivations to leave)? Were there any personal pull factors (motivations to move to a particular destination)? Was there any evidence of chain migration (family/community connections that provided support, jobs, familiar culture)?
+
 
 {% include essay/audio.html
   file="audio/sample-clip.wav"
