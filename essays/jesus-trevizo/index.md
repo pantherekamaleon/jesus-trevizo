@@ -7,10 +7,10 @@
 layout: essay
 
 # Title of your project
-title: "Template: jesus project"
+title: Template: jesus project
 
 # Your name and course (shown under the title)
-student: "jesus Trevizo"
+student: jesus Trevizo
 course: "US Immigration History, Fall 2026"
 
 # Small label on the home page card, e.g. "Village to City"
