@@ -7,10 +7,10 @@
 layout: essay
 
 # Title of your project
-title: "my ancsters how we started"
+title: my ancsters how we started
 
 # Your name and course (shown under the title)
-student: "jesus trevizo"
+student: jesus trevizo
 course: "US Immigration History, Fall 2026"
 
 # Small label on the home page card, e.g. "Village to City"
@@ -25,11 +25,6 @@ lead-image: images/qzfong.jpg
 lead-image-alt: "Black-and-white photograph of a smiling man in a buttoned jacket holding a baby in one arm and a straw hat in the other."
 lead-image-caption: "Sample text."
 
-# Optional: a different small image for the home page card.
-# If you leave this out, the card uses your lead-image.
-thumbnail: images/qzfong.jpg
-# Optional: which part of the thumbnail to show, e.g. "top" or "center 20%"
-thumbnail-position: "center 15%"
 
 # To hide an unfinished essay from the home page, remove the # in front of the next line
 # draft: true
