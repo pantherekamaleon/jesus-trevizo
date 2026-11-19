@@ -7,7 +7,7 @@
 layout: essay
 
 # Title of your project
-title: my ancsters how we started
+title: "my ancsters how we started"
 
 # Your name and course (shown under the title)
 student: jesus trevizo
