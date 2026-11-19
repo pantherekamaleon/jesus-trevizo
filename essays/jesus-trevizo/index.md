@@ -7,7 +7,7 @@
 layout: essay
 
 # Title of your project
-title: Template: jesus project"
+title:  jesus project
 
 # Your name and course (shown under the title)
 student: "jesus Trevizo"
